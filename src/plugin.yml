@@ -1,0 +1,5 @@
+name: AnnoyingCreepers
+version: 1.0
+author: Megaabytes
+main: com.megaaabytes.annoyingcreepers.AnnoyingCreepers
+api-version: 1.16
