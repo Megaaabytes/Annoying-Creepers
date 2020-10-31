@@ -17,3 +17,4 @@ How to configure:
 6. Go the output folder.
 
 My Minecraft username is "Megaabytes".
+My CurseForge account is https://www.curseforge.com/members/megamcchest/
