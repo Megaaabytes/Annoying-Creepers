@@ -4,7 +4,7 @@ NOTE: This plugin may only work with 1.16.x! It has not been tested with other v
 
 How to install:
 1. Have a spigot server.
-2. Ensure the spigot server is not online.
+2. Ensure the spigot server is currently not running.
 3. Drag and drop the plugin file inside the plugins folder.
 4. Start your spigot server.
 
