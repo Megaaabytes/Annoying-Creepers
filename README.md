@@ -1,20 +1,14 @@
 # Annoying Creepers
 
-NOTE: This plugin may only work with 1.16.x! It has not been tested with other versions!
+NOTE: This plugin has been designed to work with 1.16.x! It may or will not work with other versions.
 
-How to install:
-1. Have a spigot server.
-2. Ensure the spigot server is not online.
-3. Drag and drop the plugin file inside the plugins folder.
-4. Start your spigot server.
+Thank you for downloading Annoying Creepers! This plugin is mean't for fun.
 
-How to configure:
-1. Open the source with IntelliJ.
-2. Open listeners.java
-3. Modify the "power" or "invisible" variables.
-4. Variable "invisible" is a boolean and "power" is an int.
-5. Go to build and "Build Artifacts".
-6. Go the output folder.
+If you do not know how to install plugins, please follow this short guide:
+1. Ensure you have a spigot server and also ensure its not running.
+2. Drag and drop the plugin file in to the plugin folder.
+3. Start your server.
 
-My Minecraft username is "Megaabytes".
-My CurseForge account is https://www.curseforge.com/members/megamcchest/
+To those with less powerful computers: This plugin does not have a max explosion size, meaning it will double the size until 32 bit integer limit as minecraft cannot handle past that number.
+
+Enjoy!
